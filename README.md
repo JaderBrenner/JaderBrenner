@@ -1,13 +1,29 @@
-# Olá, tudo bem?
+# 👋 Olá, tudo bem?
 
-Me chamo Jader Brenner :wave: :vulcan_salute:
+Me chamo **Jader Brenner** 🖖
 
-Sou Cientista de Dados com conhecimento em Python, Power BI e Excel.
+Sou formado em **Zootecnia** e, atualmente, trabalho na área financeira.
 
-Atualmente trabalho no ramo da logística na área financeira, entretanto busco me aperfeiçoar cada dia mais na área de ciência de dados.
+Nos últimos tempos, venho me dedicando à transição para a área de **Ciência de Dados**, com foco em:
 
-Abaixo, as minhas redes sociais:
+- 🐍 Python  
+- 📊 Power BI  
+- 📈 Excel  
+
+Atualmente conforme avanço nos estudos, venho aplicando os conhecimentos em projetos práticos, que você pode acompanhar no meu [portfólio](https://jaderbrenner.github.io/Portfolio_analise_dados/).
+
+Sou iniciante na área, mas estou sempre aprendendo, praticando e buscando evoluir. Meu objetivo é me tornar um profissional mais analítico, eficiente e preparado para gerar valor com base em dados.
+
+---
+
+### 🔗 Onde me encontrar:
+
 <div style="display: inline-block"> 
-  <a href="https://www.linkedin.com/in/jaderbrenner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jaderbrenner13[at]hotmail.com"><img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=maildotru&color=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jaderbrenner" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href = "mailto:jaderbrenner13@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-%230077B5?style=for-the-badge&logo=maildotru&color=red">
+  </a>
 </div>
+
